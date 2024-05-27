@@ -1,0 +1,6 @@
+MCQ,Choices,Correct
+What year was the term 'machine learning' coined?,a: 1949|b: 1959|c: 1969|d: 1979,b
+What mathematical foundations are provided for Machine Learning methods?,a: Calculus|b: Algebra|c: Mathematical Optimization|d: Geometry,c
+Which field focuses on the discovery of unknown properties in data?,a: Machine Learning|b: Data Mining|c: Deep Learning|d: Artificial Intelligence,b
+What is the key goal of machine learning?,a: Reproducing known knowledge|b: Minimizing loss on unseen samples|c: Drawing population inferences|d: Finding generalizable predictive patterns,b
+What is the difference between optimization and machine learning?,"a: Optimization focuses on minimizing loss on unseen samples, while machine learning focuses on reproducing known knowledge|b: Optimization focuses on reproducing known knowledge, while machine learning focuses on minimizing loss on unseen samples|c: Optimization and machine learning have the same goal|d: Optimization is not related to machine learning",b
